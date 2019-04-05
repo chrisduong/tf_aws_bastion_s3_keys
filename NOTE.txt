@@ -1,0 +1,3 @@
+# NOTE
+
+- ASG does not need to have lifecycle `create_before_destroy`
